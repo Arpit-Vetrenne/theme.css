@@ -1,0 +1,84 @@
+.body {
+    background-image: url('https://images.unsplash.com/photo-1454117096348-e4abbeba002c?ixlib=rb-1.2.1&w=1000&q=80');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+}
+
+#Heading {
+    margin-top: 0px;
+    text-align: center;
+    font-size: 39px;
+    color: rgb(255, 5, 38);
+}
+
+#ABCD {
+    margin-top: 44px;
+    font-family: 'Cooper';
+    font-size: 24px;
+    color: rgb(8, 28, 180)
+}
+
+#image {
+    margin-left: 78px;
+    margin-top: 25px;
+    height: 177px;
+    width: 308px;
+}
+
+.CHOOSE {
+    font-family: 'Cooper';
+    margin-left: 160px;
+    text-decoration: none;
+}
+
+#list {
+    list-style: none;
+    margin-top: 15px;
+}
+
+#aaa {
+    margin-left: 115px;
+    height: 177px;
+    width: 308px;
+}
+
+#bbb {
+    margin-left: 115px;
+    height: 177px;
+    width: 308px;
+}
+
+#themetwo {
+    margin-left: 339px;
+}
+
+#themethree {
+    margin-left: 329px;
+}
+
+#ccc {
+    margin-top: 40px;
+    margin-left: 263px;
+    height: 177px;
+    width: 308px;
+}
+
+#ddd {
+    margin-top: 40px;
+    margin-left: 163px;
+    height: 177px;
+    width: 308px;
+}
+
+#tff {
+    margin-left: 360px;
+    text-decoration: none;
+    font-family: 'Cooper'
+}
+
+#lll {
+    margin-top: 15px;
+    list-style: none;
+}
